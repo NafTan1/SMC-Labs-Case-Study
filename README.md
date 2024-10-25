@@ -55,7 +55,7 @@ To run the application, open two windows and execute the following commands:
    python pNode1.py
   ```
 
-##### In Terminal 2 (for Node 1) 
+##### In Terminal 2 (for Node 2) 
   ```bash
    python pNode2.py
   ```
